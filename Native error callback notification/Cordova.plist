@@ -21,9 +21,7 @@
 	<key>OpenAllWhitelistURLsInWebView</key>
 	<false/>
 	<key>ExternalHosts</key>
-	<array>
-		<string>samcroft.co.uk</string>
-	</array>
+	<array/>
 	<key>Plugins</key>
 	<dict>
 		<key>Compass</key>
