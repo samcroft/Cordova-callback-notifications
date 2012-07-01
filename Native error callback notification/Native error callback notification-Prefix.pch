@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Native error callback notification' target in the 'Native error callback notification' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
